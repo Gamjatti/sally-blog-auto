@@ -1,35 +1,43 @@
-네, 블로그 포스팅 내용에 맞춰 DALL-E/Midjourney용 AI 이미지 생성 프롬프트와 무료 이미지 검색 키워드를 제안해 드립니다.
+네, 천안 대학생들을 위한 '막막한 취준 시작! 단계별 가이드 총정리' 블로그 포스팅에 활용할 이미지 5장의 가이드를 제안해 드립니다. 정보성 콘텐츠임을 감안하여 공식 정보와 인포그래픽 위주로 구성했습니다.
 
 ---
 
-### 이미지 1: 걱정하는 대학생의 모습
-**한국어 설명**: 방학 때 스펙을 쌓을 대외활동을 찾으며 노트북 앞에서 고민하는 대학생의 모습. 다양한 정보와 선택지 앞에서 막막함을 느끼는 표정.
-**영어 프롬프트**: A realistic portrait of a young Korean university student, slightly pensive and focused, sitting at a desk with an open laptop. The laptop screen displays various search results related to 'extracurricular activities' or 'spec building'. Books, a planner, and a cup of coffee are on the desk. The student's expression shows a mix of concentration and slight concern. Bright, natural lighting, academic setting. Photography style, high detail.
-**용도**: 블로그 서론 (방학 대외활동 고민, 정보의 홍수 속에서 길을 잃는 모습)
-**무료 대안**: Unsplash/Pexels 검색 키워드: "대학생 고민", "laptop student worried", "studying stress", "korean student laptop"
+### 이미지 1: 막막한 취준, 하지만 명확한 로드맵이 보인다!
+**촬영/캡처 가이드**: AI 이미지 생성 (DALL-E, Midjourney 등)
+**영어 프롬프트 (AI 생성 시)**: "An illustration of a confused university student looking at a complex, tangled map that gradually transforms into a clear, simple, step-by-step roadmap with distinct milestones. Bright, hopeful colors. Modern vector art style, clean background."
+**용도**: 블로그 포스팅 최상단, 제목 아래 (독자의 공감 유발 및 문제 해결 의지 표현)
+**무료 대안**: Unsplash/Pexels 검색 키워드: "job search roadmap," "career path steps," "confused student map"
 
-### 이미지 2: 활기찬 서포터즈 팀 활동
-**한국어 설명**: 활기찬 대학생 서포터즈 팀원들이 함께 아이디어를 나누거나 콘텐츠를 기획하며 즐거워하는 모습. 역동적이고 긍정적인 분위기.
-**영어 프롬프트**: A dynamic and cheerful scene with 3-4 diverse Korean university students collaborating on a creative project. They are in a bright, modern co-working space or university common area, actively brainstorming with sticky notes, a whiteboard, and laptops. Their expressions are enthusiastic and engaged, showing teamwork and excitement. The atmosphere is energetic and positive, with a focus on '청춘 에너자이저' (Youth Energizer) spirit. Photography style, vibrant colors, clear focus on faces and interaction.
-**용도**: 서포터즈 활동 소개 (청춘 에너자이저 서포터즈 소개 및 활동 분위기)
-**무료 대안**: Unsplash/Pexels 검색 키워드: "대학생 팀 활동", "students brainstorming", "youth collaboration", "happy students working"
+---
 
-### 이미지 3: 성장과 성과를 상징하는 대학생
-**한국어 설명**: 서포터즈 활동을 통해 성장하고 스펙을 쌓아 자신감 넘치는 대학생의 모습. 주변에 성과(발표 자료, 명함, 수료증 등)를 상징하는 요소들이 은은하게 표현됨.
-**영어 프롬프트**: A confident and successful young Korean university student, smiling broadly and looking directly at the viewer, radiating positive energy. Around them, subtle, illustrative elements representing their achievements and 'specs' gained from extracurricular activities: a presentation slide icon, a networking handshake icon, a content creation icon (camera/pen), and a small certificate or diploma. The background is bright and optimistic, perhaps a blurred campus setting. Modern, clean, slightly abstract yet aspirational style. Focus on empowerment and personal growth.
-**용도**: 활동을 통해 얻은 것들 (개인적인 성장, 스펙 향상 등)
-**무료 대안**: Unsplash/Pexels 검색 키워드: "confident student", "career growth", "achievement young person", "student success"
+### 이미지 2: 첫 단추, '나'를 알아가는 과정 인포그래픽
+**촬영/캡처 가이드**: AI 이미지 생성 또는 직접 제작 (간단한 다이어그램)
+**영어 프롬프트 (AI 생성 시)**: "A clean, modern infographic titled 'Know Thyself for Career Success'. It features interconnected bubbles or sections for 'Skills (강점)', 'Interests (흥미)', 'Values (가치관)', 'Personality (성격)'. A central figure or magnifying glass points to 'Me (나 자신)'. White background, professional and engaging icons."
+**용도**: '막막한 취업 준비, 첫 단추는 나 자신 알아보기!' 섹션 (자기 분석의 중요성 시각화)
+**무료 대안**: Unsplash/Pexels 검색 키워드: "self assessment career," "career introspection infographic," "personal strengths diagram"
 
-### 이미지 4: 합격 꿀팁을 제시하는 듯한 이미지
-**한국어 설명**: '합격 꿀팁'을 시각적으로 표현하는 이미지. 손이 중요한 포인트를 가리키거나, 깔끔하게 정리된 3가지 팁이 강조된 화이트보드/노트 등.
-**영어 프롬프트**: A visually compelling image illustrating '3 acceptance tips' for university student supporters. A clean whiteboard or digital tablet displaying three distinct, clearly written '꿀팁' (honey tips) with bullet points or numbered lists. A hand holding a marker or stylus is pointing to one of the tips, implying guidance. Surrounding elements could include small icons representing success (a checkmark, a star) or a lightbulb. Bright, professional, and clear graphics. Flat lay or slightly angled, clean aesthetic.
-**용도**: 합격 꿀팁 섹션 (본격적인 합격 노하우를 설명하는 부분)
-**무료 대안**: Unsplash/Pexels 검색 키워드: "tips and tricks", "success checklist", "business strategy notes", "lightbulb idea"
+---
 
-### 이미지 5: 밝은 미래를 향해 나아가는 대학생들
-**한국어 설명**: 서포터즈 활동을 마치고, 함께 밝은 미래를 향해 나아가는 대학생들의 모습. 희망찬 공동체의 느낌을 강조.
-**영어 프롬프트**: A diverse group of 4-5 cheerful Korean university students, walking confidently forward with bright smiles, looking towards a hopeful and clear future. They are dressed in casual, modern attire, carrying backpacks or notebooks. The background is a bright, optimistic campus setting or a slightly blurred urban landscape, bathed in warm, inviting sunlight. The overall mood is one of togetherness, aspiration, and excitement for new challenges. Photography style, dynamic composition, emphasizing community and positive future prospects.
-**용도**: 블로그 마무리 및 독려 (활동 후의 만족감과 독자들의 도전을 응원하는 메시지)
-**무료 대안**: Unsplash/Pexels 검색 키워드: "students walking future", "hopeful youth", "friends future together", "campus optimistic"
+### 이미지 3: 대학생 자격증 & 스펙, 나만의 역량 키우기
+**촬영/캡처 가이드**: AI 이미지 생성
+**영어 프롬프트 (AI 생성 시)**: "A stylized illustration of an open toolbox or a checklist. Inside are various achievement icons: a diploma scroll, a certificate, a computer monitor with code, a foreign language speech bubble, a professional skill badge. The overall theme is 'Skill Up' or 'Qualifications for Success'. Bright, encouraging colors, clean vector style."
+**용도**: 대학생 자격증, 어학 등 스펙 관련 내용 설명 시 (다양한 스펙 쌓기의 필요성 및 종류 시사)
+**무료 대안**: Unsplash/Pexels 검색 키워드: "skills toolbox," "career development checklist," "professional qualifications"
+
+---
+
+### 이미지 4: 취업 정보 사이트 및 청년정책 활용 (공식 스크린샷 콜라주)
+**촬영/캡처 가이드**: 워크넷, 사람인, 잡코리아, 대한민국 청년정책 포털 등 주요 취업 및 정책 사이트 메인 페이지 스크린샷 캡처 후 콜라주로 편집
+**영어 프롬프트 (AI 생성 시)**: (AI 생성보다는 실제 스크린샷 편집 권장) "A collage of screenshots from major Korean job search portals (e.g., Worknet, Saramin, Job Korea) and the Korean Youth Policy Portal. Each screenshot should be clearly visible with its logo. Modern, clean layout with subtle borders."
+**용도**: 취업 정보 사이트 및 청년 정책 활용 섹션 (실제 정보 탐색의 구체적인 방법을 안내)
+**무료 대안**: (특정 한국 사이트이므로 대안 검색이 어려울 수 있음. 유사 이미지로는) "job search websites collage," "government policy portal" (해외 사이트 위주)
+
+---
+
+### 이미지 5: 취업 성공을 향한 힘찬 발걸음
+**촬영/캡처 가이드**: AI 이미지 생성
+**영어 프롬프트 (AI 생성 시)**: "An illustration of a university student (male or female, diverse representation) walking confidently along a clear, well-lit path towards a bright, distant goal or success symbol (e.g., a graduation cap, a job offer letter, a shining light). The path is winding but navigable, representing a journey. Hopeful, inspiring tone. Modern flat design or gentle gradients."
+**용도**: 블로그 포스팅 마무리 및 독려 (취업 준비의 어려움을 극복하고 성공할 수 있다는 희망과 동기 부여)
+**무료 대안**: Unsplash/Pexels 검색 키워드: "career success path," "future prospects journey," "confident student walking"
 
 ---

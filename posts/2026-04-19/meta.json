@@ -1,12 +1,35 @@
 {
   "date": "2026-04-19",
-  "category": "외부활동·서포터즈 후기",
-  "theme": "대학생 서포터즈 활동 후기",
-  "title": "대학생 서포터즈 1기 활동 후기! 합격 꿀팁 3가지 대방출",
-  "main_keyword": "대학생 서포터즈",
+  "category": "주간 정보 정리·회고",
+  "theme": "취업 준비 시작 단계별 가이드",
+  "title": "막막한 취준 시작! 단계별 가이드 총정리",
+  "main_keyword": "취업 준비 시작",
   "sub_keywords": [
-    "대학생 대외활동",
-    "서포터즈 합격 팁",
-    "대학생 스펙"
+    "취준 로드맵",
+    "대학생 자격증",
+    "취업 정보 사이트",
+    "청년정책 활용"
+  ],
+  "source_urls": [
+    {
+      "title": "캠퍼스픽",
+      "url": "https://www.campuspick.com/"
+    },
+    {
+      "title": "링커리어",
+      "url": "https://linkareer.com/"
+    },
+    {
+      "title": "온라인청년센터",
+      "url": "https://www.youthcenter.go.kr/"
+    },
+    {
+      "title": "Q-net",
+      "url": "https://www.q-net.or.kr/"
+    },
+    {
+      "title": "HRD-Net",
+      "url": "https://www.hrd.go.kr/"
+    }
   ]
 }
