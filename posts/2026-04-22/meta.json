@@ -1,0 +1,37 @@
+{
+  "date": "2026-04-22",
+  "category": "자격증 접수·일정",
+  "theme": "SQLD·정보처리기사 등 IT 자격증 개요",
+  "title": "SQLD·정보처리기사 등 IT 자격증 개요 정리",
+  "main_keyword": "IT 자격증",
+  "sub_keywords": [
+    "SQLD",
+    "정보처리기사",
+    "IT 자격증 추천",
+    "IT 자격증 일정",
+    "큐넷",
+    "대학생 자격증"
+  ],
+  "source_urls": [
+    {
+      "title": "Q-net (한국산업인력공단)",
+      "url": "https://www.q-net.or.kr/"
+    },
+    {
+      "title": "대한상공회의소 자격평가사업단 (컴활 등)",
+      "url": "https://license.korcham.net/"
+    },
+    {
+      "title": "토익 위원회",
+      "url": "https://exam.toeic.co.kr/"
+    },
+    {
+      "title": "한국사능력검정시험",
+      "url": "https://www.historyexam.go.kr/"
+    },
+    {
+      "title": "정보처리기사 (큐넷)",
+      "url": "https://www.q-net.or.kr/crf005.do?id=crf00506"
+    }
+  ]
+}
