@@ -1,0 +1,35 @@
+{
+  "date": "2026-04-23",
+  "category": "대외활동·서포터즈 모집",
+  "theme": "대학생 서포터즈 활동의 종류와 특징",
+  "title": "대학생 서포터즈 활동 종류별 특징 총정리",
+  "main_keyword": "대학생 서포터즈 활동",
+  "sub_keywords": [
+    "대학생 대외활동",
+    "기업 서포터즈",
+    "서포터즈 혜택",
+    "서포터즈 장점"
+  ],
+  "source_urls": [
+    {
+      "title": "캠퍼스픽 대외활동",
+      "url": "https://www.campuspick.com/activity"
+    },
+    {
+      "title": "링커리어 대외활동",
+      "url": "https://linkareer.com/list/activity"
+    },
+    {
+      "title": "대학내일 대외활동",
+      "url": "https://univ20.com/"
+    },
+    {
+      "title": "씽유 대외활동",
+      "url": "https://www.thinkcontest.com/"
+    },
+    {
+      "title": "잡코리아 대외활동",
+      "url": "https://www.jobkorea.co.kr/"
+    }
+  ]
+}
