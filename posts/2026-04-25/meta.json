@@ -1,0 +1,35 @@
+{
+  "date": "2026-04-25",
+  "category": "IT·개발 교육·부트캠프",
+  "theme": "개발 교육 지원금·훈련수당 정리",
+  "title": "개발 교육 지원금·훈련수당 총정리!",
+  "main_keyword": "개발 교육 지원금",
+  "sub_keywords": [
+    "K-디지털 트레이닝 훈련수당",
+    "SSAFY 교육생 혜택",
+    "국비지원 개발",
+    "개발 부트캠프 지원금"
+  ],
+  "source_urls": [
+    {
+      "title": "HRD-Net (K-디지털 트레이닝)",
+      "url": "https://www.hrd.go.kr/"
+    },
+    {
+      "title": "SSAFY (삼성청년SW아카데미)",
+      "url": "https://www.ssafy.com/"
+    },
+    {
+      "title": "우아한테크코스",
+      "url": "https://woowacourse.github.io/"
+    },
+    {
+      "title": "네이버 부스트캠프",
+      "url": "https://boostcamp.connect.or.kr/"
+    },
+    {
+      "title": "프로그래머스 데브코스",
+      "url": "https://programmers.co.kr/school"
+    }
+  ]
+}
