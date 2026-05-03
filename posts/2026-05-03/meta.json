@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-03",
+  "category": "주간 정보 정리·회고",
+  "theme": "대학생 필수 북마크 사이트 모음",
+  "title": "대학생 필수 사이트 총정리! 🔍 꿀팁 저장각",
+  "main_keyword": "대학생 필수 사이트",
+  "sub_keywords": [
+    "대학생 대외활동",
+    "대학생 취업",
+    "청년정책",
+    "국비지원 교육"
+  ],
+  "source_urls": [
+    {
+      "title": "캠퍼스픽",
+      "url": "https://www.campuspick.com/"
+    },
+    {
+      "title": "링커리어",
+      "url": "https://linkareer.com/"
+    },
+    {
+      "title": "온라인청년센터",
+      "url": "https://www.youthcenter.go.kr/"
+    },
+    {
+      "title": "Q-net",
+      "url": "https://www.q-net.or.kr/"
+    },
+    {
+      "title": "HRD-Net",
+      "url": "https://www.hrd.go.kr/"
+    }
+  ]
+}
