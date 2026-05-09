@@ -1,0 +1,36 @@
+{
+  "date": "2026-05-09",
+  "category": "IT·개발 교육·부트캠프",
+  "theme": "AI·데이터 분야 교육 프로그램 유형",
+  "title": "AI·데이터 교육 프로그램 유형별 총정리",
+  "main_keyword": "AI 데이터 교육 프로그램",
+  "sub_keywords": [
+    "K-디지털 트레이닝",
+    "SSAFY",
+    "AI 부트캠프",
+    "비전공자 AI",
+    "데이터 교육"
+  ],
+  "source_urls": [
+    {
+      "title": "HRD-Net (K-디지털 트레이닝)",
+      "url": "https://www.hrd.go.kr/"
+    },
+    {
+      "title": "SSAFY (삼성청년SW아카데미)",
+      "url": "https://www.ssafy.com/"
+    },
+    {
+      "title": "우아한테크코스",
+      "url": "https://woowacourse.github.io/"
+    },
+    {
+      "title": "네이버 부스트캠프",
+      "url": "https://boostcamp.connect.or.kr/"
+    },
+    {
+      "title": "프로그래머스 데브코스",
+      "url": "https://programmers.co.kr/school"
+    }
+  ]
+}
