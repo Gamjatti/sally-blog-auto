@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-31",
+  "category": "주간 정보 정리·회고",
+  "theme": "취업 준비 시작 단계별 가이드",
+  "title": "취업 준비 시작 가이드: 핵심 정보 & 로드맵 정리",
+  "main_keyword": "대학생 취업 준비 시작",
+  "sub_keywords": [
+    "취업 준비 로드맵",
+    "취업 정보 사이트 추천",
+    "내일배움카드",
+    "대학생 자격증"
+  ],
+  "source_urls": [
+    {
+      "title": "캠퍼스픽",
+      "url": "https://www.campuspick.com/"
+    },
+    {
+      "title": "링커리어",
+      "url": "https://linkareer.com/"
+    },
+    {
+      "title": "온라인청년센터",
+      "url": "https://www.youthcenter.go.kr/"
+    },
+    {
+      "title": "Q-net",
+      "url": "https://www.q-net.or.kr/"
+    },
+    {
+      "title": "HRD-Net",
+      "url": "https://www.hrd.go.kr/"
+    }
+  ]
+}
