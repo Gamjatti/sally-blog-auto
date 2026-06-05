@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-05",
+  "category": "천안·충남 청년 혜택",
+  "theme": "충청남도 청년정책 종합 안내",
+  "title": "천안·충남 청년정책: 혜택 찾고 신청하는 법",
+  "main_keyword": "충남 청년정책",
+  "sub_keywords": [
+    "천안 청년 혜택",
+    "충남 청년 지원금",
+    "충남청년이음",
+    "청년 정책 신청 방법"
+  ],
+  "source_urls": [
+    {
+      "title": "천안시청 청년정책",
+      "url": "https://www.cheonan.go.kr/youth.do"
+    },
+    {
+      "title": "충청남도 청년정책",
+      "url": "https://www.chungnam.go.kr/yfprMain.do"
+    },
+    {
+      "title": "충남청년이음 플랫폼",
+      "url": "https://www.cnyouth.or.kr/"
+    },
+    {
+      "title": "온라인청년센터",
+      "url": "https://www.youthcenter.go.kr/"
+    },
+    {
+      "title": "대한민국 구석구석 천안",
+      "url": "https://korean.visitkorea.or.kr/"
+    }
+  ]
+}
