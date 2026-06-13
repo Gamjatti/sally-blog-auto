@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-13",
+  "category": "IT·개발 교육·부트캠프",
+  "theme": "대학생이 받을 수 있는 무료·국비 개발 교육 종류",
+  "title": "대학생 무료 국비 개발 교육 총정리",
+  "main_keyword": "대학생 국비지원 개발 부트캠프",
+  "sub_keywords": [
+    "K-디지털 트레이닝",
+    "SSAFY",
+    "우아한테크코스",
+    "네이버 부스트캠프",
+    "무료 코딩 교육"
+  ],
+  "source_urls": [
+    {
+      "title": "HRD-Net (K-디지털 트레이닝)",
+      "url": "https://www.hrd.go.kr/"
+    },
+    {
+      "title": "SSAFY (삼성청년SW아카데미)",
+      "url": "https://www.ssafy.com/"
+    },
+    {
+      "title": "우아한테크코스",
+      "url": "https://woowacourse.github.io/"
+    },
+    {
+      "title": "네이버 부스트캠프",
+      "url": "https://boostcamp.connect.or.kr/"
+    },
+    {
+      "title": "프로그래머스 데브코스",
+      "url": "https://programmers.co.kr/school"
+    }
+  ]
+}
