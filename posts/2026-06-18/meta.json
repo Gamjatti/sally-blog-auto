@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-18",
+  "category": "대외활동·서포터즈 모집",
+  "theme": "장학금을 주는 대외활동 정리",
+  "title": "등록금 벌자! 장학금 주는 대외활동 총정리",
+  "main_keyword": "대학생 장학금 대외활동",
+  "sub_keywords": [
+    "대외활동 추천",
+    "대학생 서포터즈",
+    "학비 버는 법",
+    "장학금 받는 대외활동"
+  ],
+  "source_urls": [
+    {
+      "title": "캠퍼스픽 대외활동",
+      "url": "https://www.campuspick.com/activity"
+    },
+    {
+      "title": "링커리어 대외활동",
+      "url": "https://linkareer.com/list/activity"
+    },
+    {
+      "title": "대학내일 대외활동",
+      "url": "https://univ20.com/"
+    },
+    {
+      "title": "씽유 대외활동",
+      "url": "https://www.thinkcontest.com/"
+    },
+    {
+      "title": "잡코리아 대외활동",
+      "url": "https://www.jobkorea.co.kr/"
+    }
+  ]
+}
