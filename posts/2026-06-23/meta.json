@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-23",
+  "category": "청년정책 신청 가이드",
+  "theme": "대학생 국가장학금 기본 정보",
+  "title": "대학생 국가장학금 기본 정보 총정리",
+  "main_keyword": "대학생 국가장학금",
+  "sub_keywords": [
+    "국가장학금 신청",
+    "국가장학금 자격요건",
+    "국가장학금 소득분위",
+    "한국장학재단",
+    "국가장학금 유형"
+  ],
+  "source_urls": [
+    {
+      "title": "온라인청년센터(청년정책 통합포털)",
+      "url": "https://www.youthcenter.go.kr/"
+    },
+    {
+      "title": "복지로",
+      "url": "https://www.bokjiro.go.kr/"
+    },
+    {
+      "title": "정부24",
+      "url": "https://www.gov.kr/"
+    },
+    {
+      "title": "한국장학재단",
+      "url": "https://www.kosaf.go.kr/"
+    },
+    {
+      "title": "고용24 (국민취업지원제도)",
+      "url": "https://www.work24.go.kr/"
+    }
+  ]
+}
