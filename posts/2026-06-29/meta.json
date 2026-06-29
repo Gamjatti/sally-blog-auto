@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-29",
+  "category": "대학생 공모전 정보",
+  "theme": "요즘 많이 열리는 대학생 공모전 유형 정리",
+  "title": "요즘 많이 열리는 대학생 공모전 유형 정리",
+  "main_keyword": "대학생 공모전 유형",
+  "sub_keywords": [
+    "공모전 종류",
+    "대학생 대외활동",
+    "공모전 플랫폼",
+    "공모전 스펙"
+  ],
+  "source_urls": [
+    {
+      "title": "캠퍼스픽 공모전",
+      "url": "https://www.campuspick.com/contest"
+    },
+    {
+      "title": "링커리어 공모전",
+      "url": "https://linkareer.com/list/contest"
+    },
+    {
+      "title": "씽유 공모전",
+      "url": "https://www.thinkcontest.com/"
+    },
+    {
+      "title": "위비티 공모전",
+      "url": "https://www.wevity.com/"
+    },
+    {
+      "title": "대한민국 공모전 광장",
+      "url": "https://www.all-con.co.kr/"
+    }
+  ]
+}
