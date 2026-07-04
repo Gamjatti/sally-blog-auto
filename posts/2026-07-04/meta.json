@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-04",
+  "category": "IT·개발 교육·부트캠프",
+  "theme": "주요 SW 아카데미 프로그램 비교",
+  "title": "인기 SW 아카데미 5곳 총정리: 취업 부트캠프 비교",
+  "main_keyword": "SW 아카데미",
+  "sub_keywords": [
+    "SSAFY",
+    "K-디지털 트레이닝",
+    "우아한테크코스",
+    "개발 부트캠프 추천"
+  ],
+  "source_urls": [
+    {
+      "title": "HRD-Net (K-디지털 트레이닝)",
+      "url": "https://www.hrd.go.kr/"
+    },
+    {
+      "title": "SSAFY (삼성청년SW아카데미)",
+      "url": "https://www.ssafy.com/"
+    },
+    {
+      "title": "우아한테크코스",
+      "url": "https://woowacourse.github.io/"
+    },
+    {
+      "title": "네이버 부스트캠프",
+      "url": "https://boostcamp.connect.or.kr/"
+    },
+    {
+      "title": "프로그래머스 데브코스",
+      "url": "https://programmers.co.kr/school"
+    }
+  ]
+}
