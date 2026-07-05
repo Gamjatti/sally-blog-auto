@@ -1,0 +1,37 @@
+{
+  "date": "2026-07-05",
+  "category": "주간 정보 정리·회고",
+  "theme": "공모전·대외활동·자격증 정보 찾는 사이트 총정리",
+  "title": "대학생 필수! 공모전 대외활동 자격증 정보 사이트 총정리",
+  "main_keyword": "공모전 대외활동 자격증 정보",
+  "sub_keywords": [
+    "대학생 스펙업",
+    "캠퍼스픽",
+    "링커리어",
+    "온라인청년센터",
+    "Q-net",
+    "HRD-Net"
+  ],
+  "source_urls": [
+    {
+      "title": "캠퍼스픽",
+      "url": "https://www.campuspick.com/"
+    },
+    {
+      "title": "링커리어",
+      "url": "https://linkareer.com/"
+    },
+    {
+      "title": "온라인청년센터",
+      "url": "https://www.youthcenter.go.kr/"
+    },
+    {
+      "title": "Q-net",
+      "url": "https://www.q-net.or.kr/"
+    },
+    {
+      "title": "HRD-Net",
+      "url": "https://www.hrd.go.kr/"
+    }
+  ]
+}
