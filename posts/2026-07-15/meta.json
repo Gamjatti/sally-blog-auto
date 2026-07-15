@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-15",
+  "category": "자격증 접수·일정",
+  "theme": "GTQ·컬러리스트 등 디자인 자격증 안내",
+  "title": "디자인 자격증 GTQ 컬러리스트 접수 총정리",
+  "main_keyword": "디자인 자격증",
+  "sub_keywords": [
+    "GTQ 접수",
+    "컬러리스트 산업기사",
+    "디자인 자격증 추천",
+    "큐넷 디자인 자격증"
+  ],
+  "source_urls": [
+    {
+      "title": "Q-net (한국산업인력공단)",
+      "url": "https://www.q-net.or.kr/"
+    },
+    {
+      "title": "대한상공회의소 자격평가사업단 (컴활 등)",
+      "url": "https://license.korcham.net/"
+    },
+    {
+      "title": "토익 위원회",
+      "url": "https://exam.toeic.co.kr/"
+    },
+    {
+      "title": "한국사능력검정시험",
+      "url": "https://www.historyexam.go.kr/"
+    },
+    {
+      "title": "정보처리기사 (큐넷)",
+      "url": "https://www.q-net.or.kr/crf005.do?id=crf00506"
+    }
+  ]
+}
