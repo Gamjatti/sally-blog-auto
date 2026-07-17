@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-17",
+  "category": "천안·충남 청년 혜택",
+  "theme": "상명대·호서대·단국대·백석대 학생 지역 혜택 찾기",
+  "title": "천안 대학생 혜택: 상명대·호서대·단국대·백석대 청년 지원 총정리",
+  "main_keyword": "천안 대학생 혜택",
+  "sub_keywords": [
+    "천안 청년 정책",
+    "충남 청년 지원",
+    "대학생 주거 혜택",
+    "천안 문화 할인"
+  ],
+  "source_urls": [
+    {
+      "title": "천안시청 청년정책",
+      "url": "https://www.cheonan.go.kr/youth.do"
+    },
+    {
+      "title": "충청남도 청년정책",
+      "url": "https://www.chungnam.go.kr/yfprMain.do"
+    },
+    {
+      "title": "충남청년이음 플랫폼",
+      "url": "https://www.cnyouth.or.kr/"
+    },
+    {
+      "title": "온라인청년센터",
+      "url": "https://www.youthcenter.go.kr/"
+    },
+    {
+      "title": "대한민국 구석구석 천안",
+      "url": "https://korean.visitkorea.or.kr/"
+    }
+  ]
+}
