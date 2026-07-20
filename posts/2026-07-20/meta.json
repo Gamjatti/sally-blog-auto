@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-20",
+  "category": "대학생 공모전 정보",
+  "theme": "대학생이 참여 가능한 공모전 찾는 법",
+  "title": "대학생 공모전 어디서 찾아야 할까? (사이트 총정리)",
+  "main_keyword": "대학생 공모전",
+  "sub_keywords": [
+    "공모전 사이트",
+    "공모전 추천",
+    "공모전 정보",
+    "대학생 스펙"
+  ],
+  "source_urls": [
+    {
+      "title": "캠퍼스픽 공모전",
+      "url": "https://www.campuspick.com/contest"
+    },
+    {
+      "title": "링커리어 공모전",
+      "url": "https://linkareer.com/list/contest"
+    },
+    {
+      "title": "씽유 공모전",
+      "url": "https://www.thinkcontest.com/"
+    },
+    {
+      "title": "위비티 공모전",
+      "url": "https://www.wevity.com/"
+    },
+    {
+      "title": "대한민국 공모전 광장",
+      "url": "https://www.all-con.co.kr/"
+    }
+  ]
+}
