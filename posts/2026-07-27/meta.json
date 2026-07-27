@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-27",
+  "category": "대학생 공모전 정보",
+  "theme": "공모전 준비할 때 확인해야 할 기본 정보",
+  "title": "대학생 공모전 시작 전 필수 확인 정보 정리",
+  "main_keyword": "대학생 공모전 준비",
+  "sub_keywords": [
+    "공모전 사이트 추천",
+    "공모전 준비 단계",
+    "공모전 일정 체크",
+    "공모전 유의사항"
+  ],
+  "source_urls": [
+    {
+      "title": "캠퍼스픽 공모전",
+      "url": "https://www.campuspick.com/contest"
+    },
+    {
+      "title": "링커리어 공모전",
+      "url": "https://linkareer.com/list/contest"
+    },
+    {
+      "title": "씽유 공모전",
+      "url": "https://www.thinkcontest.com/"
+    },
+    {
+      "title": "위비티 공모전",
+      "url": "https://www.wevity.com/"
+    },
+    {
+      "title": "대한민국 공모전 광장",
+      "url": "https://www.all-con.co.kr/"
+    }
+  ]
+}
