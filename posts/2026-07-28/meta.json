@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-28",
+  "category": "청년정책 신청 가이드",
+  "theme": "청년마음건강바우첗 안내",
+  "title": "천안 청년! 마음건강 바우처 신청 가이드 총정리",
+  "main_keyword": "청년마음건강바우처",
+  "sub_keywords": [
+    "청년심리상담",
+    "복지로 청년마음건강",
+    "대학생 정신건강",
+    "심리상담 비용"
+  ],
+  "source_urls": [
+    {
+      "title": "온라인청년센터(청년정책 통합포털)",
+      "url": "https://www.youthcenter.go.kr/"
+    },
+    {
+      "title": "복지로",
+      "url": "https://www.bokjiro.go.kr/"
+    },
+    {
+      "title": "정부24",
+      "url": "https://www.gov.kr/"
+    },
+    {
+      "title": "한국장학재단",
+      "url": "https://www.kosaf.go.kr/"
+    },
+    {
+      "title": "고용24 (국민취업지원제도)",
+      "url": "https://www.work24.go.kr/"
+    }
+  ]
+}
