@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-05",
+  "category": "자격증 접수·일정",
+  "theme": "대학생이 준비할 만한 국가기술자격증 유형 정리",
+  "title": "대학생 국가기술자격증, 유형별 추천 정리!",
+  "main_keyword": "대학생 국가기술자격증",
+  "sub_keywords": [
+    "취업 자격증",
+    "컴퓨터활용능력",
+    "정보처리기사",
+    "국가기술자격증 종류"
+  ],
+  "source_urls": [
+    {
+      "title": "Q-net (한국산업인력공단)",
+      "url": "https://www.q-net.or.kr/"
+    },
+    {
+      "title": "대한상공회의소 자격평가사업단 (컴활 등)",
+      "url": "https://license.korcham.net/"
+    },
+    {
+      "title": "토익 위원회",
+      "url": "https://exam.toeic.co.kr/"
+    },
+    {
+      "title": "한국사능력검정시험",
+      "url": "https://www.historyexam.go.kr/"
+    },
+    {
+      "title": "정보처리기사 (큐넷)",
+      "url": "https://www.q-net.or.kr/crf005.do?id=crf00506"
+    }
+  ]
+}
