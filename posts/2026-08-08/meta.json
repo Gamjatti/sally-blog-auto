@@ -1,0 +1,37 @@
+{
+  "date": "2026-08-08",
+  "category": "IT·개발 교육·부트캠프",
+  "theme": "부트캠프 선택할 때 체크 포인트",
+  "title": "부트캠프 선택 가이드: 후회 없는 체크리스트",
+  "main_keyword": "부트캠프 선택",
+  "sub_keywords": [
+    "K-디지털 트레이닝",
+    "SSAFY",
+    "우아한테크코스",
+    "개발 부트캠프 추천",
+    "국비지원 부트캠프",
+    "네이버 부스트캠프"
+  ],
+  "source_urls": [
+    {
+      "title": "HRD-Net (K-디지털 트레이닝)",
+      "url": "https://www.hrd.go.kr/"
+    },
+    {
+      "title": "SSAFY (삼성청년SW아카데미)",
+      "url": "https://www.ssafy.com/"
+    },
+    {
+      "title": "우아한테크코스",
+      "url": "https://woowacourse.github.io/"
+    },
+    {
+      "title": "네이버 부스트캠프",
+      "url": "https://boostcamp.connect.or.kr/"
+    },
+    {
+      "title": "프로그래머스 데브코스",
+      "url": "https://programmers.co.kr/school"
+    }
+  ]
+}
