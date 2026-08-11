@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-11",
+  "category": "청년정책 신청 가이드",
+  "theme": "청년월세특별지원 제도 안내",
+  "title": "청년월세특별지원 신청 가이드 총정리",
+  "main_keyword": "청년월세특별지원",
+  "sub_keywords": [
+    "청년월세지원 조건",
+    "청년월세지원 신청 방법",
+    "청년월세지원 대상",
+    "온라인청년센터"
+  ],
+  "source_urls": [
+    {
+      "title": "온라인청년센터(청년정책 통합포털)",
+      "url": "https://www.youthcenter.go.kr/"
+    },
+    {
+      "title": "복지로",
+      "url": "https://www.bokjiro.go.kr/"
+    },
+    {
+      "title": "정부24",
+      "url": "https://www.gov.kr/"
+    },
+    {
+      "title": "한국장학재단",
+      "url": "https://www.kosaf.go.kr/"
+    },
+    {
+      "title": "고용24 (국민취업지원제도)",
+      "url": "https://www.work24.go.kr/"
+    }
+  ]
+}
