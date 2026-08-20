@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-20",
+  "category": "대외활동·서포터즈 모집",
+  "theme": "문화·예술 분야 서포터즈 개요",
+  "title": "대학생 문화예술 서포터즈 모집 꿀팁 정리",
+  "main_keyword": "대학생 문화예술 서포터즈",
+  "sub_keywords": [
+    "문화예술 대외활동",
+    "대학생 서포터즈",
+    "서포터즈 혜택",
+    "대외활동 찾는 법"
+  ],
+  "source_urls": [
+    {
+      "title": "캠퍼스픽 대외활동",
+      "url": "https://www.campuspick.com/activity"
+    },
+    {
+      "title": "링커리어 대외활동",
+      "url": "https://linkareer.com/list/activity"
+    },
+    {
+      "title": "대학내일 대외활동",
+      "url": "https://univ20.com/"
+    },
+    {
+      "title": "씽유 대외활동",
+      "url": "https://www.thinkcontest.com/"
+    },
+    {
+      "title": "잡코리아 대외활동",
+      "url": "https://www.jobkorea.co.kr/"
+    }
+  ]
+}
