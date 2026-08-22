@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-22",
+  "category": "IT·개발 교육·부트캠프",
+  "theme": "K-디지털 트레이닝 개요",
+  "title": "K-디지털 트레이닝: 국비지원 IT 교육 개요 총정리",
+  "main_keyword": "K-디지털 트레이닝",
+  "sub_keywords": [
+    "내일배움카드",
+    "HRD-Net",
+    "IT 부트캠프 추천",
+    "SSAFY 우테코"
+  ],
+  "source_urls": [
+    {
+      "title": "HRD-Net (K-디지털 트레이닝)",
+      "url": "https://www.hrd.go.kr/"
+    },
+    {
+      "title": "SSAFY (삼성청년SW아카데미)",
+      "url": "https://www.ssafy.com/"
+    },
+    {
+      "title": "우아한테크코스",
+      "url": "https://woowacourse.github.io/"
+    },
+    {
+      "title": "네이버 부스트캠프",
+      "url": "https://boostcamp.connect.or.kr/"
+    },
+    {
+      "title": "프로그래머스 데브코스",
+      "url": "https://programmers.co.kr/school"
+    }
+  ]
+}
