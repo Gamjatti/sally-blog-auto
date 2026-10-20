@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-20",
+  "category": "청년정책 신청 가이드",
+  "theme": "청년내일채움공제 개요",
+  "title": "청년내일채움공제, 혜택부터 신청까지 완벽 정리!",
+  "main_keyword": "청년내일채움공제",
+  "sub_keywords": [
+    "내일채움공제 조건",
+    "내일채움공제 신청",
+    "내일채움공제 혜택",
+    "중소기업 청년지원"
+  ],
+  "source_urls": [
+    {
+      "title": "온라인청년센터(청년정책 통합포털)",
+      "url": "https://www.youthcenter.go.kr/"
+    },
+    {
+      "title": "복지로",
+      "url": "https://www.bokjiro.go.kr/"
+    },
+    {
+      "title": "정부24",
+      "url": "https://www.gov.kr/"
+    },
+    {
+      "title": "한국장학재단",
+      "url": "https://www.kosaf.go.kr/"
+    },
+    {
+      "title": "고용24 (국민취업지원제도)",
+      "url": "https://www.work24.go.kr/"
+    }
+  ]
+}
