@@ -1,41 +1,33 @@
-"대학생 필수 북마크 사이트 모음 ZIP! (ft. 취준)" 블로그 포스팅에 사용할 이미지 5장의 가이드입니다. 정보성 블로그의 특성을 살려 공식 스크린샷과 인포그래픽 위주로 구성했습니다.
+천안 대학생을 위한 취업 준비 로드맵 블로그 포스팅에 사용할 이미지 5장의 가이드입니다. 정보성 블로그의 특성을 살려 공식 자료 및 인포그래픽 위주로 구성했습니다.
 
 ---
 
-### 이미지 1: 대학생이 노트북 앞에서 중요한 사이트를 북마크하는 모습
-**촬영/캡처 가이드**: AI 생성 이미지 (따뜻하고 긍정적인 분위기)
-**영어 프롬프트 (AI 생성 시)**: A vibrant illustration of a diverse university student sitting comfortably at a desk with a laptop. On the laptop screen, multiple browser tabs or bookmark icons are prominently displayed, suggesting a collection of essential websites. Subtle graphic elements like a graduation cap, a lightbulb, or a briefcase float around, symbolizing study, ideas, and career. The student is smiling, looking engaged and well-organized. Bright, inviting colors, modern, clean style.
-**용도**: 블로그 최상단 (메인 대표 이미지)
-**무료 대안**: Unsplash/Pexels 검색 키워드: university student laptop, college student productivity, study bookmarks, essential websites student
+### 이미지 1: 천안 대학생 취업 준비 로드맵 메인 이미지
+**촬영/캡처 가이드**: AI 이미지 생성 도구 (DALL-E, Midjourney 등)를 사용하여 천안 지역의 특징을 살린 대학 캠퍼스 분위기와 취업 준비 로드맵을 상징하는 이미지를 제작합니다. 활기차고 희망적인 분위기를 연출합니다.
+**영어 프롬프트 (AI 생성 시)**: A modern and professional illustration for "Cheonan University Students' Career Preparation Roadmap." Feature a diverse group of university students in a stylized Cheonan campus setting, perhaps with a subtle landmark like a tree-lined path or modern university building. They are confidently looking towards a future path, symbolized by an upward-curving road or a series of stepping stones. Use a bright, encouraging color palette. Infographic style.
+**용도**: 블로그 포스팅 최상단 대표 이미지 (썸네일 겸용)
+**무료 대안**: Unsplash/Pexels 검색 키워드: "university students career path," "job search roadmap," "student success journey"
 
----
+### 이미지 2: 취업 준비 막막함 & 정보 과부하 인포그래픽
+**촬영/캡처 가이드**: 직접 제작 다이어그램 또는 AI 이미지 생성 도구를 사용하여 취업 준비 과정에서 느끼는 막막함과 방대한 정보의 양을 시각적으로 표현한 인포그래픽을 제작합니다. 복잡한 길, 수많은 정보 조각들 사이에서 길을 찾는 듯한 학생의 모습을 담을 수 있습니다.
+**영어 프롬프트 (AI 생성 시)**: Infographic illustrating a university student feeling overwhelmed and lost in a "sea of information" while preparing for a career. Show a student figure surrounded by numerous confusing arrows, question marks, abstract data points, and piles of documents. The background can have subtle, blurred city lights resembling Cheonan. Use a slightly muted and contrasting color palette to convey the challenge, with a small spotlight or compass hinting at a solution. Data visualization, conceptual art style.
+**용도**: "취업 준비, 왜 막막할까요?" 섹션 시작 부분
+**무료 대안**: Unsplash/Pexels 검색 키워드: "information overload," "confused student career," "career path complexity infographic"
 
-### 이미지 2: 대학생활 필수 정보 키워드 인포그래픽
-**촬영/캡처 가이드**: 직접 제작 (간단한 아이콘과 텍스트 조합) 또는 AI 생성 (인포그래픽 스타일)
-**영어 프롬프트 (AI 생성 시)**: A clean, modern infographic illustrating various essential resources for university students. The central theme is "University Life Essentials," with radiating lines connecting to distinct icons and keywords such as "Extracurricular Activities (대외활동)," "Contests (공모전)," "Certifications (자격증)," "National Support Programs (국비지원)," "Youth Policies (청년정책)," and "Job Search (취업준비)." Use a vibrant but professional color palette. Minimalist, easy-to-understand design.
-**용도**: "📍 개요: 막막한 대학생활, 이제 끝! 북마크 필수템 소개" 섹션 도입부
-**무료 대안**: Unsplash/Pexels 검색 키워드: student resources infographic, career roadmap icons, university life guide, essential services diagram
+### 이미지 3: 단계별 취업 준비 로드맵 인포그래픽
+**촬영/캡처 가이드**: 직접 제작 다이어그램 또는 AI 이미지 생성 도구를 사용하여 취업 준비 과정을 체계적인 단계로 나눈 인포그래픽을 제작합니다. 본문에서 다룰 '자기 이해', '역량 개발', '서류 준비', '면접 준비' 등의 단계를 시각적으로 명확하게 구분하고, 각 단계에 맞는 아이콘을 활용하여 가독성을 높입니다.
+**영어 프롬프트 (AI 생성 시)**: Clean and professional infographic: "Step-by-Step Career Preparation Roadmap for University Students." Clearly display sequential steps such as 'Self-Assessment & Goal Setting,' 'Skill Development & Experience,' 'Resume & Portfolio Building,' 'Networking & Mentorship,' 'Interview Preparation,' and 'Job Application & Negotiation.' Use a modern road or path metaphor with distinct icons for each stage. Bright, encouraging, and easy-to-understand colors. Flat design, data visualization.
+**용도**: 취업 준비의 핵심 내용을 다루는 '단계별 로드맵' 섹션
+**무료 대안**: Unsplash/Pexels 검색 키워드: "career roadmap infographic," "job search journey steps," "career planning stages"
 
----
+### 이미지 4: 천안 및 전국 취업 지원 사이트 로고/스크린샷 모음
+**촬영/캡처 가이드**: 본문에서 언급될 주요 취업 관련 공식 웹사이트 (예: 잡코리아, 사람인, 워크넷, 천안시 일자리센터, 학교 취업센터 등)의 메인 페이지 또는 로고를 직접 캡처하여 하나의 콜라주 이미지로 만듭니다. 각 사이트의 이름이 명확히 보이도록 배치합니다.
+**영어 프롬프트 (AI 생성 시)**: Collage of clean, stylized logos or abstract representations of official career support websites for university students. Include icons or text for platforms like 'JobKorea,' 'Saramin,' 'Worknet,' 'Cheonan Job Center,' and a generic 'University Career Services Portal.' Arrange them neatly with a modern, digital interface background. Avoid actual pixel-perfect screenshots, focus on clear identification.
+**용도**: 유용한 사이트 및 꿀팁 정보 섹션
+**무료 대안**: (공식 사이트 스크린샷은 저작권 문제로 무료 이미지 사이트에서 찾기 어렵습니다. 직접 캡처하는 것이 가장 좋음) 대신 검색 키워드를 사용한다면: "job search websites collage," "career resources portal icons" (단, 이는 일반적인 이미지만 제공함)
 
-### 이미지 3: 대표적인 대외활동/공모전 사이트 (예: 캠퍼스픽) 메인 화면 스크린샷
-**촬영/캡처 가이드**: '캠퍼스픽(Campuspick)' 또는 '링커리어(Linkareer)' 등 대표적인 대외활동/공모전 사이트의 메인 페이지를 스크린샷. 상단 로고와 주요 게시물 목록이 잘 보이도록 캡처.
-**영어 프롬프트 (AI 생성 시)**: (AI 생성 시에는 특정 사이트를 모사하기 어렵지만, 개념을 요청한다면) A clean and user-friendly website interface screenshot of a platform dedicated to university extracurricular activities and contests. Features prominent search bar, categorized listings like "internships," "volunteer opportunities," "competitions," and "student clubs." Visible site branding and an attractive, professional design. Fictional site name.
-**용도**: 대외활동/공모전 관련 사이트 소개 섹션
-**무료 대안**: Unsplash/Pexels 검색 키워드: student opportunities website, campus activities portal, contest listings, internship search platform
-
----
-
-### 이미지 4: 대표적인 국비지원/취업 정책 사이트 (예: HRD-Net) 메인 화면 스크린샷
-**촬영/캡처 가이드**: '고용노동부 HRD-Net' (내일배움카드 관련 정보가 잘 보이도록) 또는 '청년정책(Youth.go.kr)' 사이트의 메인 페이지를 스크린샷. 핵심 메뉴나 배너가 포함되도록 캡처.
-**영어 프롬프트 (AI 생성 시)**: (AI 생성 시 특정 정부 사이트 모사는 어려움) A screenshot of a governmental or official vocational training and youth policy website. Displays sections for "National Employment Support System," "Tomorrow Learning Card (Naeil Baeum Card)" or "Youth Policy Guide," and "Job Training Courses." Clear, authoritative design with a blue/white color scheme, typical of government services.
-**용도**: 내일배움카드, 청년 정책 등 취업 및 교육 지원 관련 사이트 소개 섹션
-**무료 대안**: Unsplash/Pexels 검색 키워드: government support program, job training website, career development portal, youth policy information
-
----
-
-### 이미지 5: 북마크가 가득한 노트북 화면과 정리된 다이어리
-**촬영/캡처 가이드**: AI 생성 이미지 (정돈되고 성취감이 느껴지는 분위기)
-**영어 프롬프트 (AI 생성 시)**: A close-up shot of a laptop screen, filled with numerous colorful bookmark icons and open tabs, symbolizing a curated collection of useful websites. Next to the laptop, an open, neatly organized planner or diary with a pen rests on a clean desk. The scene conveys a sense of productivity, accomplishment, and preparation. Soft, warm ambient lighting.
-**용도**: 블로그 본문 마무리, '꿀팁 정리' 또는 '마지막으로' 섹션
-**무료 대안**: Unsplash/Pexels 검색 키워드: desktop organization, website bookmarks, productivity setup, digital organization, essential tools
+### 이미지 5: 성공적인 취업을 향한 희망적인 미래 이미지
+**촬영/캡처 가이드**: AI 이미지 생성 도구를 사용하여 취업 준비 과정을 성공적으로 마친 대학생이 밝고 희망찬 미래를 향해 나아가는 모습을 표현합니다. 졸업 가운을 입거나, 합격 통지서를 들고 환하게 웃는 모습 등 긍정적이고 영감을 주는 분위기를 연출합니다.
+**영어 프롬프트 (AI 생성 시)**: Hopeful and inspiring illustration of a diverse university student confidently stepping into a bright, successful future after completing their career preparation. Show elements like a graduation cap, a symbolic job offer letter, or a briefcase, set against a backdrop of a clear sky and modern cityscape. Use warm, vibrant colors to convey optimism and achievement. Professional, empowering illustration style.
+**용도**: 블로그 포스팅 마무리 및 요약, 독자들에게 격려를 주는 섹션
+**무료 대안**: Unsplash/Pexels 검색 키워드: "successful graduate," "career achievement," "bright future student," "job offer celebration"
